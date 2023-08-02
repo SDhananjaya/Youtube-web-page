@@ -1,0 +1,62 @@
+.asaid{
+   display: inline-block;
+   width: 80px;
+   bottom: 0;
+   top:0;
+   left: 0;
+margin-top:70px;
+position: fixed;
+border:1px solid rgb(223, 221, 221);
+box-shadow: 2px 2px 2px  rgb(223, 221, 221);
+background-color:white;
+}
+.mini-one{
+   height: 80px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+ a img {
+height:25px;
+margin-top: 8px;
+margin-left: 5px;
+}
+.vikram{
+   font-size:12px;
+}
+.mini-two{
+   height: 80px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.mini-three{
+   height: 80px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.mini-four{
+   height: 80px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.mini-five{
+   height: 80px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.mini-six{
+   height: 90px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+div a{
+   color:black;
+}
+.asaid >div:hover{
+    background-color: rgb(222, 230, 230);
+}
